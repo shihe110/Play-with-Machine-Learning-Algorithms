@@ -5,3 +5,9 @@
 一维数据x 升维X2 使得线性可分
 地标land-mark
 将一维样本点映射到高维空间
+
+svm解决分类问题
+在margin范围里样本点越少越好
+svm解决回归问题
+在margin范围里样本点越多越好
+    指定margin的范围超参数epsilon
